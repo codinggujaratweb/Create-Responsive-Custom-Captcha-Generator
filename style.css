@@ -13,7 +13,7 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: #826afb;
+    background: #4553e7;
 }
 
 .container {
@@ -46,7 +46,7 @@ header {
     top: 50%;
     right: 10px;
     transform: translateY(-50%);
-    background: #826afb;
+    background: #4553e7;
     height: 30px;
     width: 30px;
     border: none;
@@ -86,7 +86,7 @@ header {
 .message {
     font-size: 14px;
     margin: 14px 0;
-    color: #826afb;
+    color: #4553e7;
     display: none;
 }
 
@@ -95,7 +95,7 @@ header {
 }
 
 .button button {
-    background: #826afb;
+    background: #4553e7;
     color: #fff;
     cursor: pointer;
     user-select: none;

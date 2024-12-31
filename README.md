@@ -3,8 +3,8 @@
 
 ### 🎥 Video tutorial: [Watch Now](https://youtu.be/Voe4qjvqypQ)
 
-### 🌟 Live Preview: [Check it out here](https://codinggujaratweb.github.io/Create-Responsive-Draggable-Carousel-Slider/)
-### 📂 Source Code: [Download here](https://github.com/codinggujaratweb/Create-Responsive-Draggable-Carousel-Slider)
+### 🌟 Live Preview: [Check it out here](https://codinggujaratweb.github.io/Create-Responsive-Custom-Captcha-Generator/)
+### 📂 Source Code: [Download here](https://github.com/codinggujaratweb/Create-Responsive-Custom-Captcha-Generator)
 
 ### 💼 Connect with me on LinkedIn:  [Aman Nayak](https://www.linkedin.com/in/amanayak/)
 ### 📸 Follow me on Instagram:  [CodingGujarat](https://instagram.com/codinggujarat/)
